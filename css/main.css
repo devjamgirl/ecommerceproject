@@ -1,7 +1,14 @@
 .pics {
-  width:350px;
+  width:250px;
   height: 300px;
 }
 h1 {
   text-align: center;
+  margin-bottom: 20px;
+}
+#contact-us {
+  margin-right: 100px;
+}
+title {
+  font-size: 50px;
 }
